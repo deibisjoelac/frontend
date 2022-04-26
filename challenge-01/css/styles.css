@@ -1,0 +1,22 @@
+:root {
+	--color-header-info: #002d48;
+  }
+
+  body{
+	  background-color: #f8fafc;
+  }
+.header-info{
+	background-color: var(--color-header-info);
+	padding: 10px;
+	border-bottom: 1px solid #e3e3e3;
+	color : white;
+}
+
+.text-primary{
+	color : #00588e;
+}
+.btn-primary{
+	background-color: #72a9a3;
+    color: #fff;
+	border : 2px solid #72a9a3;
+}
